@@ -1,7 +1,7 @@
-#English
+# English
 Hello!! I'm Japanese student
 
-#日本語
+# 日本語
 はろはろ!! 我は日本の学生なり
 
 <!---
