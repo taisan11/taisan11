@@ -1,10 +1,8 @@
 # English
 Hello!! I'm Japanese student
-My name is Tomita Taishi.
-The school I go to is Yokohama Soei Junior High School.
 # 日本語
 はろはろ!! 我は日本の学生なり
-本名とかは英語を見てね
+
 
 
 [![taisan11/taisan11.github.io - GitHub](https://gh-card.dev/repos/taisan11/taisan11.github.io.svg)](https://github.com/taisan11/taisan11.github.io)
