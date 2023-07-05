@@ -1,3 +1,4 @@
+![!](https://zenn.badge.nikaera.com/s/taisan11/articles?style=flat)
 # English
 Hello!! I'm Japanese student
 # 日本語
