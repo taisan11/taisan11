@@ -3,6 +3,8 @@
 Hello!! I'm **Japanese student**<br>
 I often use language is **JS**&**TS**<br>
 I like **deno🦕**&**Hono🔥**
+I use VScode
+....What should I write?
 
 ![taisan11's GitHub stats](https://github-readme-stats.vercel.app/api?username=taisan11&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisan11&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=taisan11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
