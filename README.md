@@ -1,4 +1,4 @@
-![!](https://zenn.badge.nikaera.com/s/taisan11/articles?style=flat)[![Scraps](https://badgen.org/img/zenn/taisan11/scraps?style=flat)](https://zenn.dev/taisan11?tab=scraps)
+![!](https://zenn.badge.nikaera.com/s/taisan11/articles?style=flat)[![Scraps](https://badgen.org/img/zenn/taisan11/scraps?style=flat)](https://zenn.dev/taisan11?tab=scraps)![](https://komarev.com/ghpvc/?username=taisan11)
 # taisan11＜I'm not cat
 Hello!! I'm **Japanese student**<br>
 I often use language is **JS**&**TS**<br>
