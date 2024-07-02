@@ -9,13 +9,13 @@
     <img src="https://komarev.com/ghpvc/?username=taisan11" alt="" />
   </p>
 </div>
-# taisan11＜I'm fish?
-Hello!! I'm **Japanese student**<br>
-I often use language is **JS**&**TS**<br>
-I'd like to try using **Go** someday<br>
-I like **Hono🔥**&**Bun**<br>
-## My skill💻
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ts,nodejs,bun,deno,react,cloudflare,github,react)](https://skillicons.dev)
-## 🏆stats!!
-![taisan11's GitHub stats](https://github-readme-stats.vercel.app/api?username=taisan11&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisan11&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=taisan11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h1># taisan11＜I'm fish?</h1>
+<p>Hello!! I'm **Japanese student**</p><br>
+<p>I often use language is **JS**&**TS**</p><br>
+<p>I'd like to try using **Go** someday</p><br>
+<p>I like **Hono🔥**&**Bun**</p><br>
+<h2>## My skill💻</h2>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,wasm,ts,nodejs,bun,deno,react,cloudflare,github,react" alt="My Skills" /></a></p>
+<h2>## 🏆stats!!</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=taisan11&count_private=true&show_icons=true&theme=tokyonight" alt="taisan11's GitHub stats" /><a href="https://github.com/mo-ri-regen/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisan11&theme=vue-dark&show_icons=true&layout=compact" alt="Top Langs" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taisan11&theme=onedark" alt="trophy" /></a></p>
