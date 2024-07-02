@@ -10,10 +10,10 @@
   </p>
 </div>
 <h1># taisan11＜I'm fish?</h1>
-<p>Hello!! I'm **Japanese student**</p><br>
-<p>I often use language is **JS**&**TS**</p><br>
-<p>I'd like to try using **Go** someday</p><br>
-<p>I like **Hono🔥**&**Bun**</p><br>
+<p>Hello!! I'm **Japanese student**</p>
+<p>I often use language is **JS**&**TS**</p>
+<p>I'd like to try using **Go** someday</p>
+<p>I like **Hono🔥**&**Bun**</p>
 <h2>## My skill💻</h2>
 <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,wasm,ts,nodejs,bun,deno,react,cloudflare,github,react" alt="My Skills" /></a></p>
 <h2>## 🏆stats!!</h2>
