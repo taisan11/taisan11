@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://i.giphy.com/RkEai4UOiCigE.webp" />
-  <br/>
   <p>
     <img src="https://zenn.badge.nikaera.com/s/taisan11/articles?style=flat" alt="!" />
     <a href="https://zenn.dev/taisan11?tab=scraps">
