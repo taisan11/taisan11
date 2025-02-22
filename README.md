@@ -7,8 +7,9 @@
     <img src="https://komarev.com/ghpvc/?username=taisan11" alt="" />
   </p>
 </div>
-<h1># taisan11＜I like Sushi</h1>
+<h1># taisan11＜Sushi is very yammy</h1>
 <p>Hello!!Hello!!Hello!!!!!</p>
+<p>I'm 15 years old.</p>
 <p>I often use language is <b>JS</b>&<b>TS</b></p>
 <p>I'd like to try using <b>Go</b> someday</p>
 <p>I like <b>Hono🔥</b>&<b>Bun</b></p>
