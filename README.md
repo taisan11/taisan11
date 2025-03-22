@@ -19,3 +19,5 @@
 <h2>## 🏆stats!!</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=taisan11&count_private=true&show_icons=true&theme=tokyonight" alt="taisan11's GitHub stats" /><a href="https://github.com/mo-ri-regen/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisan11&theme=vue-dark&show_icons=true&layout=compact" alt="Top Langs" /></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taisan11&theme=onedark" alt="trophy" /></a><br/><img src="https://github-contributor-stats.vercel.app/api?username=taisan11&limit=5&theme=dark&combine_all_yearly_contributions=false&v=1"/></p>
+<h2>## Cute!! View Counter</h2>
+<img src="https://count.getloli.com/@taisan11?name=taisan11&theme=booru-jaypee&padding=5&offset=0&align=top&scale=0.8&pixelated=1&darkmode=auto"/>
