@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://zenn.badge.nikaera.com/s/taisan11/articles?style=flat" alt="!" />
+    <img src="https://badgen.org/img/zenn/taisan11/articles?style=flat" alt="!" />
     <a href="https://zenn.dev/taisan11?tab=scraps">
       <img src="https://badgen.org/img/zenn/taisan11/scraps?style=flat" alt="Scraps" />
     </a>
