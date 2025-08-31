@@ -11,7 +11,8 @@
 <p>Hello!!Hello!!Hello!!!!!</p>
 <p>I'm 15 years old.</p>
 <p>I often use language is <b>JS</b>&<b>TS</b></p>
-<p>I like Go!!!! in native code!!</p>
+<p>I like Rust!!!! in native code!!</p>
+<p>But this is difficult</p>
 <p>I like <b>Hono🔥</b>&<b>Bun</b></p>
 <p>Where is my bun's emoji!?</p>
 <p>I like Japanese Calais&Rice🍛!</p>
