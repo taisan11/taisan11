@@ -15,7 +15,7 @@
 <p>But this is difficult</p>
 <p>I like <b>Hono🔥</b>&<b>Bun</b></p>
 <p>Where is my bun's emoji!?</p>
-<p>I like Japanese Calais&Rice🍛!</p>
+<p>I like Japanese Curry&Rice🍛!</p>
 <h2>## My skill💻</h2>
 <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,wasm,ts,nodejs,bun,deno,cloudflare,github,rust,workers,windows,linux,vscode,vite,vscode,go&perline=9" alt="My Skills" /></a></p>
 <h2>## 🏆stats!!</h2>
